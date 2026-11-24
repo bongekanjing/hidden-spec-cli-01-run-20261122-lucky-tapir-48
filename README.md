@@ -1,3 +1,9 @@
+[![Build mend, one patch tool for every AI edit format](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![Rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/bongekanjing/hidden-spec-cli-01-run-20261122-lucky-tapir-48/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![Reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/bongekanjing/hidden-spec-cli-01-run-20261122-lucky-tapir-48/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+
+An entry in [Build mend, one patch tool for every AI edit format](https://make.fun/bounty/hidden-spec-cli-01-run-20261122) on make.fun.
+
 # mend: the starter
 
 Start your agent's session at or after the contest's opening (its `opens_at`) and build the entry in it: a session
